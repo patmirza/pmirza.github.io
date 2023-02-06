@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Political Science/International Relations, UC San Diego, 2019
-* J.D. University of Cincinnati College of Law, 2024 (expected)
+* J.D., University of Cincinnati College of Law, 2024 (expected)
 
 Work Experience
 ======
@@ -39,9 +39,9 @@ Skills
   
 Awards and Affiliations
 ======
-* UCSD Provost Honors (Eight-time recipient) 
+* UC San Diego Provost Honors (Eight-time recipient) 
 * The Federalist Society member
-* Sigma Nu Fraternity (Administrative Relations Chairman) alumni
+* Sigma Nu Fraternity alumni (Administrative Relations Chairman)
 * Homenetmen Glendale Ararat Chapter volunteer – Basketball Coach
   
 
