@@ -14,7 +14,7 @@ Education
 * B.A. in Political Science/International Relations, UC San Diego, 2019
 * J.D. University of Cincinnati College of Law, 2024 (expected)
 
-Work experience
+Work Experience
 ======
 * B&D Law Group, APLC – Los Angeles, CA
   * Law Clerk (05/2022-Present)
