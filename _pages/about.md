@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-hi my name patrick
+Website under construction
