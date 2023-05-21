@@ -32,7 +32,7 @@ With his graduation on the horizon, Patrick is eager to embark on a legal career
 
 Personal Interests:
 
-Outside of his academic and legal pursuits, Patrick enjoys spending time outdoors, exploring nature trails, and engaging in physical activities like hiking and playing basketball. He is an avid reader and finds solace in literature, particularly in books that delve into societal issues and the human condition.
+Outside of his academic and legal pursuits, Patrick enjoys spending time outdoors, exploring nature trails, and engaging in physical activities like hiking and playing basketball. He is an avid volunteer, contributing to the well-being of his community by tutoring and mentoring young people, feeding lunch to the elderly, and participating in organized environmental cleanups.
 
 Conclusion:
 
