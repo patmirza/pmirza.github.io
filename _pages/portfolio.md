@@ -4,14 +4,22 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+Selected writing samples:
 
-[Writing Sample 1](1.pdf)
+[Appropriate Remedy in the Case of O.J. Simpson](1.pdf)
 
-[Writing Sample 2](2.pdf)
+[When Genocide Goes Unpunished: An Armenian Perspective](2.pdf)
 
-[Writing Sample 3](3.pdf)
+[The Cost of Expressing Gender Identity in America](3.pdf)
 
-[Writing Sample 4](4.pdf)
+[Legal problem involving emotional distress](4.pdf)
 
-[Writing Sample 5](5.pdf)
+[Discrimination Against Same-Sex Parenthood](5.pdf)
 
+[HIV Decriminalization](6.pdf)
+
+[Constitutional Challenge to New Federal Extortion Statute](7.pdf)
+
+[Aliyah Jameson v. Baldwin School District](8.pdf)
+
+[IT Specialist for the City of Cincinnati](9.pdf)
