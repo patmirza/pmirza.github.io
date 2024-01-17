@@ -23,3 +23,7 @@ Selected writing samples:
 [Aliyah Jameson v. Baldwin School District](8.pdf)
 
 [IT Specialist for the City of Cincinnati](9.pdf)
+
+[The Case of Malala Yousafzai](10.pdf)
+
+[Voices Unheard- The Unfair Reality of Immigration Court Hearings](11.pdf)
