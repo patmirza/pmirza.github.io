@@ -10,9 +10,10 @@ Selected writing samples:
 
 [When Genocide Goes Unpunished: An Armenian Perspective](2.pdf)
 
-[The Case of Malala Yousafzai](10.pdf)
+[The Case of Malala Yousafzai: Examining the Disconnect Between International Pressure
+and Domestic Action](10.pdf)
 
-[Voices Unheard- The Unfair Reality of Immigration Court Hearings](11.pdf)
+[Voices Unheard: The Unfair Reality of Immigration Court Hearings](11.pdf)
 
 [The Cost of Expressing Gender Identity in America](3.pdf)
 
