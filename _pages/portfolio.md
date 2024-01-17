@@ -10,7 +10,7 @@ Selected writing samples:
 
 [When Genocide Goes Unpunished: An Armenian Perspective](2.pdf)
 
-[The Case of Malala Yousafzai](https://github.com/patmirza/pmirza.github.io/files/13965702/10.pdf)
+[The Case of Malala Yousafzai](10.pdf)
 
 [Voices Unheard- The Unfair Reality of Immigration Court Hearings](11.pdf)
 
