@@ -16,15 +16,18 @@ Education
 
 Work Experience
 ======
+* U.S. District Court, Southern District of Ohio – Cincinnati, OH
+  * Judicial Extern (01/2024-Present)
+
 * B&D Law Group, APLC – Los Angeles, CA
-  * Law Clerk (05/2022-Present)
+  * Law Clerk (05/2022-10/2023)
     * Meet with and take statements from clients, witnesses, and other relevant parties.
     * Perform legal research as well as draft briefs, memoranda, complaints, stipulations, and motions.
     * Propound and respond to written discovery.
     * Assist in court hearings, client consultations, depositions, and mediations.
 
 * AmeriCorps – California Superior Court – San Diego, CA
-   * JusticeCorps Legal Assistant (05/2018-07/2019) 
+   * JusticeCorps Legal Assistant (08/2018-06/2019) 
      * Aided individuals coming to court without an attorney who were trying to resolve crucial legal matters affecting their family, housing, personal safety, and financial stability.
      * Educated litigants on their legal options and potential outcomes by providing impartial assistance.
      * Spent, on average, forty-five minutes to one hour working with each litigant to record testimony, correct filing errors, make clear the judicial process, answer any questions, etc.
