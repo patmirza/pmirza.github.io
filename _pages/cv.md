@@ -21,10 +21,10 @@ Work Experience
 
 * B&D Law Group, APLC – Los Angeles, CA
   * Law Clerk (05/2022-10/2023)
-    * Meet with and take statements from clients, witnesses, and other relevant parties.
-    * Perform legal research as well as draft briefs, memoranda, complaints, stipulations, and motions.
-    * Propound and respond to written discovery.
-    * Assist in court hearings, client consultations, depositions, and mediations.
+    * Met with and took statements from clients, witnesses, and other relevant parties.
+    * Performed legal research as well as drafted briefs, memoranda, complaints, stipulations, and motions.
+    * Propounded and responded to written discovery.
+    * Assisted in court hearings, client consultations, depositions, and mediations.
 
 * AmeriCorps – California Superior Court – San Diego, CA
    * JusticeCorps Legal Assistant (08/2018-06/2019) 
