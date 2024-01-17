@@ -39,7 +39,7 @@ Skills
   
 Awards and Affiliations
 ======
-* Cincinnati College of Law Dean’s Honors List (Fall ’22 & Spring '23)
+* Cincinnati College of Law Dean’s Honors List (Fall ’22, Spring '23, Fall '23)
 * UC San Diego Provost's Honors List (eight-time recipient) 
 * The Federalist Society member
 * Sigma Nu Fraternity alumni (Administrative Relations Chairman)
